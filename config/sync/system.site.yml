@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: l58O_yEXSo-SeJi19LXdzTU1tNJG3lmnIhCitRkM1tk
+langcode: en
+uuid: 5a31da65-7408-4c3f-914d-07e0da00633c
+name: 'Vardot Remote Dashboard'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
