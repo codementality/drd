@@ -1,0 +1,11 @@
+uuid: 26db96de-485d-4fd0-b5be-3f59337606d8
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_domain.token
+label: Token
+description: ''
+targetEntityType: drd_domain
+cache: true

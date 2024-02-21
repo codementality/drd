@@ -1,0 +1,14 @@
+uuid: d3c29138-9569-4dff-bb91-86bc4a9f049f
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+_core:
+  default_config_hash: 9JmwcJRa2mQU4ARYBUJ-JkGzK364aH1Wxf-h1U4rdAk
+id: drd_action_info
+label: 'Collect information'
+type: drd_domain
+plugin: drd_action_info
+configuration:
+  terms: {  }

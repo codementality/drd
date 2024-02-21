@@ -1,0 +1,14 @@
+uuid: f90f17bc-c868-4a76-9d4f-c985026a63fa
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+_core:
+  default_config_hash: CC9RhOW1RolfGljFTL5bgQ-lGBM8muOaOtFsXllaUWs
+id: drd_action_error_logs
+label: 'Collect error logs'
+type: drd_domain
+plugin: drd_action_error_logs
+configuration:
+  terms: {  }

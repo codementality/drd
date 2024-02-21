@@ -1,0 +1,11 @@
+uuid: c5251c79-c09c-40bd-bc5b-98265c546588
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_project.token
+label: Token
+description: ''
+targetEntityType: drd_project
+cache: true

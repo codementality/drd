@@ -1,0 +1,14 @@
+uuid: 4077fbff-5c36-4dc2-8b0b-62bf8fdbdfa6
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+_core:
+  default_config_hash: xprlHXxtSyL9EBLUrwrpCXg9vgAr7TqOZbD_QJpYfeU
+id: drd_action_update_translations
+label: 'Updates translations'
+type: drd_domain
+plugin: drd_action_update_translations
+configuration:
+  terms: {  }

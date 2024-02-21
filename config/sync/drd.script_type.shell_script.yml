@@ -1,0 +1,13 @@
+uuid: 9841c26b-a17a-4b3e-84e9-f0e77e713a04
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CEcfm3GHk8-zUq3NXkj_dkf-cr27H35poYAARuF1TiM
+id: shell_script
+label: 'Shell Script'
+interpreter: /bin/sh
+extension: sh
+prefix: ''
+suffix: ''
+linesuffix: null

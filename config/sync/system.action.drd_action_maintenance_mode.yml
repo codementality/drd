@@ -1,0 +1,14 @@
+uuid: aa82d323-0adb-49e2-88c7-4bd40a87e4f4
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+_core:
+  default_config_hash: W-cuD9j5JxTBAYIkx57LR__IbKoMd_DuGmq2gWiq15g
+id: drd_action_maintenance_mode
+label: 'Get or set maintenance mode'
+type: drd_domain
+plugin: drd_action_maintenance_mode
+configuration:
+  terms: {  }

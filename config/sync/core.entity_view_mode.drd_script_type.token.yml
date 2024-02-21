@@ -1,0 +1,11 @@
+uuid: fe2b0a49-1246-46d1-b890-338a9ebdf9d8
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_script_type.token
+label: Token
+description: ''
+targetEntityType: drd_script_type
+cache: true

@@ -1,0 +1,11 @@
+uuid: b07731b3-125d-4dde-860d-9294527be0ca
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_host.token
+label: Token
+description: ''
+targetEntityType: drd_host
+cache: true

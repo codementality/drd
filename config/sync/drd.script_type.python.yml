@@ -1,0 +1,13 @@
+uuid: a2f4177e-5019-47d4-8323-c51ca18f08e8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zxNx196XtKuLr5CFDSm4m898uLDJZkIA5SNmLxZYYn0
+id: python
+label: Python
+interpreter: /usr/bin/python
+extension: py
+prefix: ''
+suffix: ''
+linesuffix: null

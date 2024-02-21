@@ -1,0 +1,11 @@
+uuid: 17d1c453-f59c-4a84-8286-18100b48c14e
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_major.token
+label: Token
+description: ''
+targetEntityType: drd_major
+cache: true

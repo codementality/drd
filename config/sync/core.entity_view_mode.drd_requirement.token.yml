@@ -1,0 +1,11 @@
+uuid: 09576364-0ffa-4f6c-833d-308633ef9887
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_requirement.token
+label: Token
+description: ''
+targetEntityType: drd_requirement
+cache: true

@@ -1,0 +1,11 @@
+uuid: 2311db12-22c1-4d73-a541-0e81eb305fa0
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_release.token
+label: Token
+description: ''
+targetEntityType: drd_release
+cache: true

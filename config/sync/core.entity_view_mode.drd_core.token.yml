@@ -1,0 +1,11 @@
+uuid: 9657099a-7feb-4bfd-9efc-c7eacb6194df
+langcode: en
+status: true
+dependencies:
+  module:
+    - drd
+id: drd_core.token
+label: Token
+description: ''
+targetEntityType: drd_core
+cache: true
